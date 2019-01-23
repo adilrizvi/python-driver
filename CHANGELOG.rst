@@ -6,6 +6,10 @@ Other
 -----
 * Fail faster on incorrect lz4 import (PYTHON-1042)
 
+Deprecations
+------------
+* DowngradingConsistencyRetryPolicy is deprecated and will be
+  remove in the next major release. (PYTHON-937)
 
 3.16.0
 ======
